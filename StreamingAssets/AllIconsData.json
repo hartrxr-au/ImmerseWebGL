@@ -1,0 +1,39 @@
+{
+    "icons": [
+        {
+            "itemId": 4,
+            "icon": "Koala_ICON.png",
+            "iconUpdateTime": "2020-09-03T14:06:42+10:00",
+            "itemApproved": true,
+            "iconAttribution": "Hart RXR"
+        },
+        {
+            "itemId": 110,
+            "icon": "GreatWhitePelican_ICON.png",
+            "iconUpdateTime": "2020-10-21T17:47:49.942+11:00",
+            "itemApproved": true,
+            "iconAttribution": "Hart RXR"
+        },
+        {
+            "itemId": 244,
+            "icon": "HoverCar_ICON.png",
+            "iconUpdateTime": "2020-09-21T14:12:15.852+10:00",
+            "itemApproved": true,
+            "iconAttribution": "Hart RXR"
+        },
+        {
+            "itemId": 271,
+            "icon": "Camel_ICON.png",
+            "iconUpdateTime": "2020-10-09T13:53:07.003+11:00",
+            "itemApproved": true,
+            "iconAttribution": "Hart RXR"
+        },
+        {
+            "itemId": 248,
+            "icon": "GooseCreekTower_ICON.png",
+            "iconUpdateTime": "2020-09-11T14:40:23.379+10:00",
+            "itemApproved": true,
+            "iconAttribution": "Hart RXR"
+        }
+    ]
+}
