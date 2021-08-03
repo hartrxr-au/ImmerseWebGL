@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 2973092569
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 27ef9643e67562102d42bc0a1bf64cd5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7204ab19660447d284344a27565d3f6c
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 12661763326fd74408371c91983e6b94, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Camel/Prefab/Camel.prefab
+Dependencies: []
